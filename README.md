@@ -2,7 +2,7 @@
 - 🔭 Currently working on ruubypay.
 - 👯 PMP(2019).
 - 🌱 Currently learning Golang source code.
-- 🤔 One appearance of the patent and nine invention patents.
+- 🤔 An appearance invention patent and nine invention patents.
 <!--
 **xianlezheng/xianlezheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
