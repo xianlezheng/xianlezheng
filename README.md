@@ -1,4 +1,4 @@
-- 😄 Years of development experience with C++、Java、Go.
+- 😄 Ten years of development experience with C++、Java、Go.
 - 🔭 Currently working on ruubypay.
 - 👯 PMP(2019).
 - 🌱 Currently learning Golang source code.
